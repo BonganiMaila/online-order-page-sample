@@ -27,7 +27,7 @@ This is an online order page sample done in Javascript
 ## Screenshots of the pages
 
 ### Index
-![](https://github.com/BonganiMaila/basic-greeting-according-to-time/blob/basic-greeting/greeting_project/image.png)
+![](https://github.com/BonganiMaila/online-order-page-sample/blob/main/online_order_sample/sample.png)
 
 
 
